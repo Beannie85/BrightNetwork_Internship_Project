@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/Users/beep_kai/google-code-sample/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

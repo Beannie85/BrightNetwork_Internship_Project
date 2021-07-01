@@ -1,0 +1,1 @@
+/usr/bin/clang++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/part4_test.dir/test/part4_test.cpp.o -o part4_test  libyoutube_lib.a lib/libgmock.a lib/libgtest.a lib/libgtest_main.a lib/libgtest.a 
